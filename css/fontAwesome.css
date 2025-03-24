@@ -192,6 +192,9 @@
 .fa-envelope-o:before {
   content: "\f003";
 }
+h3{
+  color : white;
+}
 .fa-heart:before {
   content: "\f004";
 }
