@@ -1,3 +1,9 @@
 ul li .comp{
     margin-bottom: 0.5em;
 }
+ul li{
+    color: white;
+}
+ul li p a{
+    color: white;
+}
