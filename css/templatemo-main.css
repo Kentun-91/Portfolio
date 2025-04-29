@@ -329,6 +329,7 @@ nav a:hover::before {
 	padding-top: 13%;
 }
 
+
 .first-content .author-image img {
 	margin-top: 15px;
 	border-radius: 30px;
@@ -353,8 +354,7 @@ nav a:hover::before {
 
 .first-content p {
 	color: #fff;
-	font-size: 13px;
-	text-transform: uppercase;
+	font-size: 1.8em;
 	font-weight: 300;
 	letter-spacing: 2px;
 	line-height: 26px;
@@ -716,6 +716,87 @@ nav a:hover::before {
 	text-decoration: none;
 }
 
+
+.end-content {
+	padding: 100px;
+	text-align: left;
+}
+
+.end-content .author-image img {
+	margin-top: 15px;
+	border-radius: 30px;
+	max-width: 100%;
+	overflow: hidden;
+	float: left;
+	margin-right: 35px;
+}
+
+.end-content h2 {
+	font-size: 36px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	letter-spacing: 0.5px;
+	border-bottom: 2px solid #fff;
+	display: inline-block;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
+.end-content p {
+	color: #fff;
+	font-size: 1.6em;
+	font-weight: 300;
+	letter-spacing: 2px;
+	line-height: 26px;
+	margin-bottom: 20px;
+}
+
+.end-content em {
+	font-style: normal;
+	font-weight: 600;
+}
+
+.end-content .main-btn {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.end-content .main-btn a {
+	display: inline-block;
+	border: 2px solid #fff;
+	padding: 8px 15px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #fff;
+	text-decoration: none;
+	transition: all 0.5s;
+	transition: all 0.5s;
+}
+
+.end-content .fb-btn {
+	display: inline-block;
+}
+
+.end-content .fb-btn a {
+	display: inline-block;
+	background-color: #fff;
+	border: 2px solid #fff;
+	padding: 8px 15px;
+	font-size: 13px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #232323;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+
+.end-content .fb-btn a:hover {
+	color: #fff;
+	background-color: transparent;
+}
 
 
 /* REPONSIVE */
